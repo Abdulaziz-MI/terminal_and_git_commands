@@ -12,9 +12,9 @@
 | `..`                      | parent directory                                           |
 | `mv x y`                  | change file name from x to y                               |
 | `rm`                      | remove file (not retrivable)                              |
-| `rmkdir`                  | remove directory                                           |
-| `rmkdir r`                | remove directory recurssively (including children/content) |
-| `rmkdir rf`               | forcefully remove directory and it's children              |
+| `rmdir`                  | remove directory                                           |
+| `rmdir r`                | remove directory recurssively (including children/content) |
+| `rmdir rf`               | forcefully remove directory and it's children              |
 
 ## Git
 
