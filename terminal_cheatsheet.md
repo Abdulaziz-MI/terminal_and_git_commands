@@ -18,8 +18,8 @@
 
 ## Git
 
-| Commands                                               | Description                                                                                        |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | --- |
+|Commands                              | Description                                                                                        |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | **Git Set Up**                                         | _Configuring user information used across all local repositories_                                  |
 | `git config --global user.name “[firstname lastname]”` | Set name that is identifiable for credit when review version history                               |
 | `git config --global user.email “[valid-email]”`       | set an email address that will be associated with each history marker                              |
@@ -63,7 +63,11 @@
 | `git rebase [branch]`                                  | apply any commits of current branch ahead of specified one                                         |
 | `git reset --hard [commit]`                            | clear staging area, rewrite working tree from specified commit                                     |
 | **Git Temporary Commits**                              | _Temporarily store modified, tracked files in order to change branches_                            |
-| `git stash`                                            | Save modified and staged changes                                                                   |     |
-| `git stash list`                                       | list stack-order of stashed file changes                                                           |
-| `git stash pop`                                        | write working from top of stash stack                                                              |
-| `git stash drop`                                       | discard the changes from top of stash stack                                                        |
+| `git stash`       |Save modified and staged changes|                                                                   |
+| `git stash list`                                         | list stack-order of stashed file changes                                                           |
+| `git stash pop`                                          |write working from top of stash stack|
+|`git stash drop`| discard the changes from top of stash stack|
+
+
+
+
