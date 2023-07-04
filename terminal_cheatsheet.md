@@ -5,16 +5,16 @@
 | General Terminal Commands | Description                                                |
 | ------------------------- | ---------------------------------------------------------- |
 | `pwd`                     | working directory (where am I?)                            |
-| `cd`                      | change Directory                                           |
+| `cd`                      | change directory                                           |
 | `mkdir`                   | make directory                                             |
-| `touch`                   | creat file                                                 |
-| `.`                       | current diretory                                           |
+| `touch`                   | create file                                                 |
+| `.`                       | current directory                                           |
 | `..`                      | parent directory                                           |
 | `mv x y`                  | change file name from x to y                               |
-| `rm`                      | remove file (not retriavbkle)                              |
+| `rm`                      | remove file (not retrivable)                              |
 | `rmkdir`                  | remove directory                                           |
 | `rmkdir r`                | remove directory recurssively (including children/content) |
-| `rmkdir rf`               | forcefully remove directpry and it's children              |
+| `rmkdir rf`               | forcefully remove directory and it's children              |
 
 ## Git
 
